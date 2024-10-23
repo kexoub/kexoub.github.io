@@ -9439,6 +9439,7 @@ hr:before {
 #bingDayBox:hover,
 #bingHistoryBox:hover,
 #EEEDogBox:hover,
+#DmoeBox:hover,
 #seovxBox:hover,
 #picsumBox:hover,
 #waiBizhiBox:hover,
@@ -9467,6 +9468,10 @@ hr:before {
 #EEEDogBox::before {
   left: 20px;
   content: "EEEDog动漫壁纸";
+}
+#DmoeBox::before {
+  left: 34px;
+  content: "樱花二次元图片";
 }
 #seovxBox::before {
   left: 30px;
