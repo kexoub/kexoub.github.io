@@ -258,23 +258,6 @@ padding: 30px;
 margin: 30px 0px 0px 0px;
 }
 
-/*输入栏里面跳舞的小人背景图*/
-/*   启用后可能会导致无法发布评论*/
-/*
-.vedit {
-background-image:url("https://cdn.jsdelivr.net/gh/anwen-anyi/imgAnwen/images/OuNiJiang.gif");
-background-size:contain;
-background-repeat:no-repeat;
-background-position:right bottom;
-transition:all 0.25s ease-in-out 0s;
-}
-textarea#comment-textarea:focus {
-    background-position-y:120px;
-    transition:all 0.25s ease-in-out 0s;
- 
-}
-*/
-
 /* 设置文字内容 :nth-child(1)的作用是选择第几个 */
 /*启用Twikoo这玩意才会有用*/
 .el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(1):before {
