@@ -7771,9 +7771,9 @@ input#pic-link {
   outline: 1px solid var(--theme-color) !important;
 }
 
-/* heo 加载动画头像 */
+/* heo 加载动画头像 加载界面头像 */ 
 .loading-img {
-  background: url(https://tuchuang.voooe.cn/images/2023/01/02/avatar.webp)
+  background: url(http://cccimg.com/down.php/154d05f58cba44fc22e943f4cb242a15.jpg&85535525)
     no-repeat center center;
   background-size: cover;
 }
