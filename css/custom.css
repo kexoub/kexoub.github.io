@@ -48,7 +48,11 @@ overflow: hidden;
 .icon-zhongbiao::before {
 color: #f7c768;
 }
-
+/* 翻页按钮居中 */
+#pagination {
+width: 100%;
+margin: auto;
+}
 /* bilibli番剧插件 */
 #article-container .bangumi-tab.bangumi-active {
 background: var(--anzhiyu-theme);
